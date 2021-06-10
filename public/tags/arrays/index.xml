@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arrays on iPark memoization</title>
+    <link>https://ipark-cs.github.io/tags/arrays/</link>
+    <description>Recent content in arrays on iPark memoization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jun 2021 21:47:31 -0700</lastBuildDate>
+    
+        <atom:link href="https://ipark-cs.github.io/tags/arrays/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

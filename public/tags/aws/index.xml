@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS on iPark memoization</title>
+    <link>https://ipark-cs.github.io/tags/aws/</link>
+    <description>Recent content in AWS on iPark memoization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://ipark-cs.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,153 @@
+
+$ cd memoization
+$ git init
+$ git submodule add https://github.com/ipark-CS/hugo-notepadium-mod.git themes/hugo-notepadium-mod
+$ git remote add origin https://github.com/ipark-CS/memoization.git
+$ git submodule add -b master --force  https://github.com/username/username.github.io.git public
+$ git submodule add -b master --force  https://github.com/username/username.github.io.git public
+
+1. At github 
+Create two repos: 
+1) memoization          (git remote add origin https://github.com/ipark-CS/memoization.git)
+2) ipark-CS.github.io   (git remote add origin https://github.com/ipark-CS/ipark-CS.github.io.git)
+
+2. At local 
+# install
+$ brew install hugo
+$ hugo version
+
+$ hugo new site memoization
+$ cd memoization
+$ hugo mod init github.com/ipark-CS/memoization
+
+$ echo """[module]
+  [[module.imports]]
+    path = "github.com/qdzhang/hugo-notepadium-mod"""" >> config.toml
+
+# create new post 
+$ hugo new posts/first-post.md
+    /Users/ipark/iparkDL/memoization/content/posts/first-post.md created
+
+
+$ cp -ia themes/hugo-notepadium-mod/exampleSite/content .
+$ cp -ia assets .
+$ cp themes/hugo-notepadium-mod/exampleSite/assets/css/fonts.css assets/css/.
+$ hugo server -D
+
+
+Acidentally delete the folder ‘public’
+If you acidentally delete (e.g. rm -rf public) the folder which Hugo uses to place 
+the rendered flies, you probably will encounter this error when you try to git push:
+
+fatal: in unpopulated submodule 'public'
+
+Solutions:
+
+git rm --cached public
+git submodule add -b master --force  https://github.com/username/username.github.io.git public
+Now you are back. Next time cd public first then rm -rf *, don’t delete the folder 
+from the parent directory.
+#########################
+# build
+$ hugo -t hugo-notepadium-mod
+$ cd public
+$ git init
+$ git add .
+$ git commit -m "xxx"
+$ git push origin master
+
+$ cd ../memoization
+$ git add .
+$ git commit -m "xxx"
+$ git push origin master
+
+check out https://ipark-cs.github.io/
+
+
+$ git rm --cached public
+rm 'public'
+$ git submodule add -b master https://github.com/ipark-CS/ipark-CS.github.io.git public
+'public' already exists and is n
+
+
+#########################
+
+
+~/memoization$ git remote add origin https://github.com/ipark-CS/memoization.git
+~/memoization$ git init
+~/memoization$ git submodule add -b master https://github.com/ipark-CS/ipark-CS.github.io.git public
+
+
+
+#########################
+
+# create new site
+~/$ hugo new site memoization
+~/$ cd memoization
+~/memoizaiton$ ls 
+    archetypes/	config.toml	content/	data/		layouts/	static/		themes/
+~/memoizaiton$ git init
+
+# fork hugo-notepadium-mod theme in my github then add to submodule
+~/memoization$ git submodule add https://github.com/ipark-CS/hugo-notepadium-mod.git themes/hugo-notepadium-mod
+    Cloning into '/Users/ipark/iparkDL/memoization/themes/hugo-notepadium-mod'...
+    remote: Enumerating objects: 10599, done.
+    remote: Counting objects: 100% (140/140), done.
+    remote: Compressing objects: 100% (80/80), done.
+    remote: Total 10599 (delta 60), reused 113 (delta 46), pack-reused 10459
+    Receiving objects: 100% (10599/10599), 16.41 MiB | 3.97 MiB/s, done.
+    Resolving deltas: 100% (5815/5815), done.
+
+# edit config.toml
+~/memoization$ echo 'theme = "hugo-notepadium-mod"' >> config.toml
+
+
+# create new post 
+~/memoization$ hugo new posts/first-post.md
+    /Users/ipark/iparkDL/memoization/content/posts/first-post.md created
+~/memoization$ tree content/
+    content/
+    └── posts
+        └── first-post.md
+
+~/memoization$ hugo mod init github.com/ipark-CS/memoization
+    go: creating new go.mod: module github.com/ipark-CS/memoization       
+    go: to add module requirements and sums:
+    	go mod tidy
+
+~/memoization$ hugo mod get -u
+    go get: added github.com/qdzhang/hugo-notepadium-mod v0.1.1
+
+# add the following into config.toml
+[module]
+  [[module.imports]]
+    path = "github.com/qdzhang/hugo-notepadium-mod"
+
+
+# launch hugo server
+~/memoization$ hugo server -D
+    Start building sites … 
+    
+                       | EN  
+    -------------------+-----
+      Pages            |  7  
+      Paginator pages  |  0  
+      Non-page files   |  0  
+      Static files     |  6  
+      Processed images |  0  
+      Aliases          |  3  
+      Sitemaps         |  1  
+      Cleaned          |  0  
+    
+    Built in 41 ms
+    Watching for changes in /Users/ipark/iparkDL/memoization/{archetypes,content,data,layouts,static,themes}
+    Watching for config changes in /Users/ipark/iparkDL/memoization/config.toml
+    Environment: "development"
+    Serving pages from memory
+    Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+    Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+    Press Ctrl+C to stop
+
+
+
+
