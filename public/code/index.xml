@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Codes on iPark memoization</title>
+    <title>Code on iPark memoization</title>
     <link>https://ipark-cs.github.io/code/</link>
-    <description>Recent content in Codes on iPark memoization</description>
+    <description>Recent content in Code on iPark memoization</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>

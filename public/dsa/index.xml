@@ -1,11 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DSA on iPark memoization</title>
+    <title>Dsa on iPark memoization</title>
     <link>https://ipark-cs.github.io/dsa/</link>
-    <description>Recent content in DSA on iPark memoization</description>
+    <description>Recent content in Dsa on iPark memoization</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jun 2021 16:42:15 -0700</lastBuildDate>
     
         <atom:link href="https://ipark-cs.github.io/dsa/index.xml" rel="self" type="application/rss+xml" />
     
