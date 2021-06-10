@@ -1,6 +1,5 @@
 +++
 title = "Inhee Park"
-<<<<<<< HEAD
 description = "resume"
 date = ""
 author = "ipark"
@@ -142,4 +141,3 @@ author = "ipark"
 >* Full Stack Web---[Front] HTML, CSS, Bootstrap, Javascript/jQuery, Ajax; [Server] JSP/Tomcat; [Back] MySQL
 
 
->>>>>>> 97faec09aef23dc2c34f7a68439f8f66a218565a

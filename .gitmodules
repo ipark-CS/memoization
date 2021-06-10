@@ -1,12 +1,7 @@
 [submodule "public"]
 	path = public
-<<<<<<< HEAD
-	url = https://github.com/username/username.github.io.git
+	url = https://github.com/ipark-CS/ipark-CS.github.io.git
 	branch = master
 [submodule "themes/hugo-notepadium-mod"]
 	path = themes/hugo-notepadium-mod
 	url = https://github.com/ipark-CS/hugo-notepadium-mod.git
-=======
-	url = https://github.com/ipark-CS/ipark-CS.github.io.git
-	branch = master
->>>>>>> 97faec09aef23dc2c34f7a68439f8f66a218565a

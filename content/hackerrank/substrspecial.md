@@ -1,6 +1,6 @@
 +++
 author = "ipark"
-title = "Special Sub String (Palindrome Varient)"
+title = "Special Sub String (Palindrome Variant)"
 draft =  false
 type = "hackerrank"
 layout = "hackerrank"

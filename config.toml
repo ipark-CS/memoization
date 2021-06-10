@@ -1,21 +1,15 @@
 baseURL = "https://ipark-cs.github.io"
 languageCode = "en-us"
 title = "iPark memoization"
-<<<<<<< HEAD
 pluralizelisttitles = false
 summarylength = 0
-=======
->>>>>>> 97faec09aef23dc2c34f7a68439f8f66a218565a
 
 [module]
   [[module.imports]]
     path = "github.com/qdzhang/hugo-notepadium-mod"
 
-<<<<<<< HEAD
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
-=======
->>>>>>> 97faec09aef23dc2c34f7a68439f8f66a218565a
 # Configure chroma highlight
 # Reference https://gohugo.io/content-management/syntax-highlighting/
 # https://gohugo.io/getting-started/configuration-markup#highlight
@@ -33,21 +27,14 @@ unsafe = true  # enable raw HTML in Markdown
     ordered = false
     startLevel = 2
 
-<<<<<<< HEAD
-#[permalinks]
-#    #"/" = "/:year/:month/:filename/"
+[permalinks]
+    #"/" = "/:year/:month/:filename/"
      projects = "/projects/:slug"
      research = "/research/:slug"
      leetcode = "/leetcode/:slug"
      hackkerrank = "/hackerrank/slug"
      dsa = "/dsa/:slug"
      epi = "/epi/:slug"
-=======
-[permalinks]
-    #"/" = "/:year/:month/:filename/"
-    projects = "/projects/:slug"
-    code = "/code/:slug"
->>>>>>> 97faec09aef23dc2c34f7a68439f8f66a218565a
 
 [author]
     name = "ipark"  # Change to your name
@@ -56,13 +43,7 @@ unsafe = true  # enable raw HTML in Markdown
 author = "ipark"
 description = "ipark memoization"
 style = "light"  # default: auto. light: light theme, dark: dark theme, auto: based on system.
-<<<<<<< HEAD
 slogan = ""
-=======
-#logo = "https://cdn.jsdelivr.net/gh/qdzhang/littlezhang.com/static/logo.png"
-slogan = ""
-#license = "<a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt=Creative Commons License style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png /></a><br />This work is licensed under a <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
->>>>>>> 97faec09aef23dc2c34f7a68439f8f66a218565a
 
 # If you use custom css files, declare them here
 [params.assets]
@@ -76,18 +57,12 @@ enable = false # load math globally, default: false. You can always enable math 
 use = "katex"  # builtin: "katex", "mathjax".  default: "katex"
 
 [params.nav]
-<<<<<<< HEAD
 showCategories = false       # /categories/
 showTags = true            # /tags/
-=======
-showCategories = false        # /categories/
-showTags = false             # /tags/
->>>>>>> 97faec09aef23dc2c34f7a68439f8f66a218565a
 
 # You can add taxonomies in there, then link new pages in [[params.nav.custom]]
 # Reference https://gohugo.io/content-management/taxonomies/
 [taxonomies]
-<<<<<<< HEAD
   #category = "categories"
   tag = "tags"
 
@@ -104,9 +79,9 @@ url = "/about/"
 title = "bio.Research"
 url = "/research/"
 
-[[params.nav.custom]]
-title = "EPI"
-url = "/epi/"
+#[[params.nav.custom]]
+#title = "EPI"
+#url = "/epi/"
 
 #[[params.nav.custom]]
 #title = "LeetCode"
@@ -119,21 +94,4 @@ url = "/epi/"
 #[[params.nav.custom]]
 #title = "DSA"
 #url = "/dsa/"
-=======
-  category = "categories"
-  tag = "tags"
-
-[[params.nav.custom]]
-title = "Projects"
-url = "/projects/"
-
-[[params.nav.custom]]
-title = "Code"
-url = "/code/"
-
-[[params.nav.custom]]
-title = "Resume"
-url = "/about/"
-
->>>>>>> 97faec09aef23dc2c34f7a68439f8f66a218565a
 
