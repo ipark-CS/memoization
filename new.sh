@@ -1,0 +1,15 @@
+hugo new EPI/EPI-BootCamp-DS1-Arrays.md
+hugo new EPI/EPI-BootCamp-DS2-Strings.md
+hugo new EPI/EPI-BootCamp-DS3-LinkedList.md
+hugo new EPI/EPI-BootCamp-DS4-Stacks-Queues.md
+hugo new EPI/EPI-BootCamp-DS5-Heaps.md
+hugo new EPI/EPI-BootCamp-DS6-Binary-Trees.md
+hugo new EPI/EPI-BootCamp-DS7-Hash-Maps.md
+hugo new EPI/EPI-BootCamp-DS8-Binary-Search-Tress.md
+hugo new EPI/EPI-BootCamp-Algo1-Sorting.md
+hugo new EPI/EPI-BootCamp-Algo2-Recursions.md
+hugo new EPI/EPI-BootCamp-Algo3-Divide-and-Conquer.md
+hugo new EPI/EPI-BootCamp-Algo4-Dynamic-Programming.md
+hugo new EPI/EPI-BootCamp-Algo5-Greedy-Algorithms.md
+hugo new EPI/EPI-BootCamp-Algo6-Invariants.md
+hugo new EPI/EPI-BootCamp-Algo7-Graph-Modeling-DFS-BFS.md

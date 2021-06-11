@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>graph on iPark memoization</title>
+    <title>Graph on iPark memoization</title>
     <link>https://ipark-cs.github.io/tags/graph/</link>
-    <description>Recent content in graph on iPark memoization</description>
+    <description>Recent content in Graph on iPark memoization</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jun 2021 13:53:51 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jun 2021 15:27:33 -0700</lastBuildDate>
     
         <atom:link href="https://ipark-cs.github.io/tags/graph/index.xml" rel="self" type="application/rss+xml" />
     
