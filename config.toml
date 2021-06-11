@@ -34,8 +34,8 @@ unsafe = true  # enable raw HTML in Markdown
 
 [permalinks]
     #"/" = "/:year/:month/:filename/"
-     projects = "/projects/:slug"
-     research = "/research/:slug"
+     projects = "/projects/:filename"
+     research = "/research/:filename"
      leetcode = "/leetcode/:slug"
      hackkerrank = "/hackerrank/slug"
      dsa = "/dsa/:slug"
