@@ -1,7 +1,7 @@
 +++
 author = "ipark"
 title = "Multi-Agent Deep Reinforcement Learning for Walker Systems"
-date = "2021-03-05"
+date = 2020-12-15
 type = "projects"
 layout = "projects"
 description = "Deep Reinforcement Learning"
@@ -38,4 +38,5 @@ tags = ["AI", "Thesis", "DRL", "PPO", "MADRL", "Actor-Critic"
 <img src="/img/DRL/DRL25.png" width="570" style="border:1px solid black;">
 <img src="/img/DRL/DRL27.png" width="570" style="border:1px solid black;">
 <img src="/img/DRL/DRL28.png" width="570" style="border:1px solid black;">
+
 

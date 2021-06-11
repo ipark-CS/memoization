@@ -3,6 +3,11 @@ languageCode = "en-us"
 title = "iPark memoization"
 pluralizelisttitles = false
 summarylength = 0
+enableGitInfo = true
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
 
 [module]
   [[module.imports]]
