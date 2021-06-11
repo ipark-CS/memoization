@@ -5,6 +5,12 @@
     <loc>https://ipark-cs.github.io/</loc>
     <lastmod>2021-06-10T13:53:51-07:00</lastmod>
   </url><url>
+    <loc>https://ipark-cs.github.io/tags/dfs/</loc>
+    <lastmod>2021-06-10T13:53:51-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/dp/</loc>
+    <lastmod>2021-06-10T13:53:51-07:00</lastmod>
+  </url><url>
     <loc>https://ipark-cs.github.io/epi/dp#3-countnumberofwaystotraverse2darray/</loc>
     <lastmod>2021-06-10T13:53:51-07:00</lastmod>
   </url><url>
@@ -15,6 +21,9 @@
     <lastmod>2021-06-10T13:53:51-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/</loc>
+    <lastmod>2021-06-10T13:53:51-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/graph/</loc>
     <lastmod>2021-06-10T13:53:51-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/graphs#1-searchmaze/</loc>
@@ -33,6 +42,12 @@
     <lastmod>2021-06-10T13:53:51-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/greedy#6-gasupproblem/</loc>
+    <lastmod>2021-06-10T13:53:51-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/knapsack/</loc>
+    <lastmod>2021-06-10T13:53:51-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/maze/</loc>
     <lastmod>2021-06-10T13:53:51-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/</loc>
@@ -153,9 +168,6 @@
     <lastmod>2021-06-10T13:53:46-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/array/</loc>
-    <lastmod>2021-06-10T10:49:31-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/tags/dp/</loc>
     <lastmod>2021-06-10T10:49:31-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/leetcode/</loc>
@@ -384,8 +396,6 @@
     <loc>https://ipark-cs.github.io/leetcode/k-diiff-pairs/</loc>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/k-th-element/</loc>
-  </url><url>
-    <loc>https://ipark-cs.github.io/tags/knapsack/</loc>
   </url><url>
     <loc>https://ipark-cs.github.io/leetcode/knapsack/</loc>
   </url><url>

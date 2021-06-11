@@ -6,6 +6,7 @@ draft =  false
 type = "EPI"
 layout = "EPI"
 description = ""
-tags = ["EPI", 
-]
+tags = ["EPI",  "graph", "maze", "DFS"
+] 
 +++
+<script src="https://gist.github.com/ipark-CS/99d5f1d116a82b19262555310bfc2f9e.js"></script>
