@@ -1,12 +1,12 @@
 +++
 author = "ipark"
 title = "EPI BootCamp Algo2 Recursions"
-date =  2021-06-11T15:27:32-07:00
 draft =  false
 type = "EPI"
 layout = "EPI"
 description = ""
-tags = ["EPI", 
+tags = ["EPI", "GCD", "Recursion", "Divide-and-Conquer",  "Triominoes"
 ]
 +++
+<script src="https://gist.github.com/ipark-CS/5ef171201bb65b64c01c2e62ac0b99f4.js"></script>
 
