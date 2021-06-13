@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ipark-cs.github.io/tags/divide-and-conquer/</loc>
+    <lastmod>2021-06-12T16:59:08-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/epi/</loc>
+    <lastmod>2021-06-12T16:59:08-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/epi/</loc>
+    <lastmod>2021-06-12T16:59:08-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/epi/epi-bootcamp-algo2-recursions/</loc>
+    <lastmod>2021-06-12T16:59:08-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/gcd/</loc>
+    <lastmod>2021-06-12T16:59:08-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/recursion/</loc>
+    <lastmod>2021-06-12T16:59:08-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/</loc>
+    <lastmod>2021-06-12T16:59:08-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/triominoes/</loc>
+    <lastmod>2021-06-12T16:59:08-07:00</lastmod>
+  </url><url>
     <loc>https://ipark-cs.github.io/tags/7algorithms/</loc>
     <lastmod>2021-06-11T15:28:50-07:00</lastmod>
   </url><url>
@@ -9,12 +33,6 @@
     <lastmod>2021-06-11T15:28:50-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/dfs/</loc>
-    <lastmod>2021-06-11T15:28:50-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/tags/epi/</loc>
-    <lastmod>2021-06-11T15:28:50-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/epi/</loc>
     <lastmod>2021-06-11T15:28:50-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/epi-bootcamp-algo3-divide-and-conquer/</loc>
@@ -34,9 +52,6 @@
   </url><url>
     <loc>https://ipark-cs.github.io/tags/graph/</loc>
     <lastmod>2021-06-11T15:28:50-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/tags/</loc>
-    <lastmod>2021-06-11T16:43:51-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/epi-bootcamp-algo1-sorting/</loc>
     <lastmod>2021-06-11T15:28:50-07:00</lastmod>
@@ -509,9 +524,6 @@
     <loc>https://ipark-cs.github.io/tags/cryptograph/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/tags/divide-and-conquer/</loc>
-    <lastmod>2021-06-11T15:28:50-07:00</lastmod>
-  </url><url>
     <loc>https://ipark-cs.github.io/tags/dl/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
   </url><url>
@@ -524,14 +536,8 @@
     <loc>https://ipark-cs.github.io/tags/embeddings/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/epi/epi-bootcamp-algo2-recursions/</loc>
-    <lastmod>2021-06-11T15:28:50-07:00</lastmod>
-  </url><url>
     <loc>https://ipark-cs.github.io/leetcode/finding-users-active-minutes/</loc>
     <lastmod>2021-06-10T14:12:53-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/tags/gcd/</loc>
-    <lastmod>2021-06-11T15:28:50-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/genomics/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
@@ -638,9 +644,6 @@
     <loc>https://ipark-cs.github.io/tags/quicksort/</loc>
     <lastmod>2021-06-10T14:12:53-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/tags/recursion/</loc>
-    <lastmod>2021-06-11T15:28:50-07:00</lastmod>
-  </url><url>
     <loc>https://ipark-cs.github.io/research/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
   </url><url>
@@ -685,9 +688,6 @@
   </url><url>
     <loc>https://ipark-cs.github.io/projects/blowfish/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/tags/triominoes/</loc>
-    <lastmod>2021-06-11T15:28:50-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/word2vec/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
