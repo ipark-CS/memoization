@@ -3,28 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ipark-cs.github.io/tags/divide-and-conquer/</loc>
-    <lastmod>2021-06-12T16:59:08-07:00</lastmod>
+    <lastmod>2021-06-12T17:07:41-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/epi/</loc>
-    <lastmod>2021-06-12T16:59:08-07:00</lastmod>
+    <lastmod>2021-06-12T17:07:41-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/</loc>
-    <lastmod>2021-06-12T16:59:08-07:00</lastmod>
+    <lastmod>2021-06-12T17:07:41-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/epi-bootcamp-algo2-recursions/</loc>
-    <lastmod>2021-06-12T16:59:08-07:00</lastmod>
+    <lastmod>2021-06-12T17:07:41-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/gcd/</loc>
-    <lastmod>2021-06-12T16:59:08-07:00</lastmod>
+    <lastmod>2021-06-12T17:07:41-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/recursion/</loc>
-    <lastmod>2021-06-12T16:59:08-07:00</lastmod>
+    <lastmod>2021-06-12T17:07:41-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/epi/recursion.1-towers-of-hanoi/</loc>
+    <lastmod>2021-06-10T23:13:53-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/</loc>
-    <lastmod>2021-06-12T16:59:08-07:00</lastmod>
+    <lastmod>2021-06-12T17:07:41-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/tower-of-hanoi/</loc>
+    <lastmod>2021-06-10T23:13:53-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/triominoes/</loc>
-    <lastmod>2021-06-12T16:59:08-07:00</lastmod>
+    <lastmod>2021-06-12T17:07:41-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/7algorithms/</loc>
     <lastmod>2021-06-11T15:28:50-07:00</lastmod>
@@ -216,9 +222,6 @@
     <lastmod>2021-06-10T23:13:53-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/dp.2-computelevenshteindistance/</loc>
-    <lastmod>2021-06-10T23:13:53-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/epi/recursion.1-towersofhanoi/</loc>
     <lastmod>2021-06-10T23:13:53-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/recursion.2-generateallnonattackingplacements/</loc>
