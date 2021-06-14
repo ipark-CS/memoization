@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invariant on iPark memoization</title>
+    <link>https://ipark-cs.github.io/tags/invariant/</link>
+    <description>Recent content in Invariant on iPark memoization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 -0700</lastBuildDate>
+    
+        <atom:link href="https://ipark-cs.github.io/tags/invariant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

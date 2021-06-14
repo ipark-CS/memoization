@@ -2,23 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ipark-cs.github.io/tags/2-sum/</loc>
+    <lastmod>2021-06-14T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/3-sum/</loc>
+    <lastmod>2021-06-14T00:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://ipark-cs.github.io/tags/epi/</loc>
-    <lastmod>2021-06-13T15:02:24-07:00</lastmod>
+    <lastmod>2021-06-14T00:00:00-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/</loc>
-    <lastmod>2021-06-13T15:02:24-07:00</lastmod>
+    <lastmod>2021-06-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/epi/greedy.3-interval-covering-problem/</loc>
-    <lastmod>2021-06-13T00:00:00-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/tags/invariant/</loc>
+    <lastmod>2021-06-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/tags/greey/</loc>
-    <lastmod>2021-06-13T00:00:00-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/tags/interval/</loc>
-    <lastmod>2021-06-13T00:00:00-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/epi/invariant.4-three-sum/</loc>
+    <lastmod>2021-06-14T00:00:00-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/</loc>
-    <lastmod>2021-06-13T15:02:24-07:00</lastmod>
+    <lastmod>2021-06-14T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/epi/greedy.3-interval-covering-problem/</loc>
+    <lastmod>2021-06-13T21:20:18-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/greey/</loc>
+    <lastmod>2021-06-13T21:20:18-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/interval/</loc>
+    <lastmod>2021-06-13T21:20:18-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/divide-and-conquer/</loc>
     <lastmod>2021-06-12T17:07:41-07:00</lastmod>
@@ -200,14 +212,11 @@
     <loc>https://ipark-cs.github.io/epi/graphs.7-transformonestrtoanother/</loc>
     <lastmod>2021-06-10T23:13:53-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/epi/greedy.4-3sum/</loc>
-    <lastmod>2021-06-10T23:13:53-07:00</lastmod>
-  </url><url>
     <loc>https://ipark-cs.github.io/epi/greedy.5-findmajorityelement/</loc>
-    <lastmod>2021-06-10T23:13:53-07:00</lastmod>
+    <lastmod>2021-06-10T13:53:51-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/greedy.6-gasupproblem/</loc>
-    <lastmod>2021-06-10T23:13:53-07:00</lastmod>
+    <lastmod>2021-06-10T13:53:51-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/knapsack/</loc>
     <lastmod>2021-06-10T23:13:53-07:00</lastmod>
