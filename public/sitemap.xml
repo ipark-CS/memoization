@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ipark-cs.github.io/tags/dsa/</loc>
-    <lastmod>2021-06-14T09:48:57-07:00</lastmod>
+    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/dsa/</loc>
-    <lastmod>2021-06-14T09:48:57-07:00</lastmod>
+    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/invariant/</loc>
-    <lastmod>2021-06-14T09:48:57-07:00</lastmod>
+    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/dsa/selection-sort/</loc>
-    <lastmod>2021-06-14T09:48:57-07:00</lastmod>
+    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/selection-sort/</loc>
-    <lastmod>2021-06-14T09:48:57-07:00</lastmod>
+    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/shrink-array/</loc>
-    <lastmod>2021-06-14T09:48:57-07:00</lastmod>
+    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/subarray/</loc>
-    <lastmod>2021-06-14T09:48:57-07:00</lastmod>
+    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/</loc>
-    <lastmod>2021-06-14T09:48:57-07:00</lastmod>
+    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/2-sum/</loc>
     <lastmod>2021-06-14T01:06:19-07:00</lastmod>
@@ -32,23 +32,32 @@
     <loc>https://ipark-cs.github.io/tags/3-sum/</loc>
     <lastmod>2021-06-14T01:06:19-07:00</lastmod>
   </url><url>
+    <loc>https://ipark-cs.github.io/tags/accumulative-sum/</loc>
+    <lastmod>2021-06-14T00:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://ipark-cs.github.io/tags/epi/</loc>
-    <lastmod>2021-06-14T01:06:19-07:00</lastmod>
+    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/</loc>
-    <lastmod>2021-06-14T01:06:19-07:00</lastmod>
+    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/greedy/</loc>
+    <lastmod>2021-06-14T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/epi/greedy.2-schedule-to-minimize-waiting-time/</loc>
+    <lastmod>2021-06-14T00:00:00-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/greedy.5-find-majority-element/</loc>
-    <lastmod>2021-06-14T01:06:19-07:00</lastmod>
+    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/hashmap/</loc>
-    <lastmod>2021-06-14T01:06:19-07:00</lastmod>
+    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/invariant.4-three-sum/</loc>
     <lastmod>2021-06-14T01:06:19-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/majority/</loc>
-    <lastmod>2021-06-14T01:06:19-07:00</lastmod>
+    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/greedy.3-interval-covering-problem/</loc>
     <lastmod>2021-06-13T21:20:18-07:00</lastmod>
