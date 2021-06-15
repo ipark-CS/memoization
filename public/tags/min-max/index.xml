@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>min-max on iPark memoization</title>
+    <link>https://ipark-cs.github.io/tags/min-max/</link>
+    <description>Recent content in min-max on iPark memoization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jun 2021 15:45:56 -0700</lastBuildDate>
+    
+        <atom:link href="https://ipark-cs.github.io/tags/min-max/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

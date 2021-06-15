@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ipark-cs.github.io/tags/arrays/</loc>
+    <lastmod>2021-06-15T15:45:56-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/epi/arrays.1-buy-and-sell-a-stock-once/</loc>
+    <lastmod>2021-06-15T15:45:56-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/epi/</loc>
+    <lastmod>2021-06-15T15:45:56-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/epi/</loc>
+    <lastmod>2021-06-15T15:45:56-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/min-max/</loc>
+    <lastmod>2021-06-15T15:45:56-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/stock/</loc>
+    <lastmod>2021-06-15T15:45:56-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/</loc>
+    <lastmod>2021-06-15T15:45:56-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/epi/arrays.1-buy-and-sell-a-stock-twice/</loc>
+    <lastmod>2021-06-15T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/backward/</loc>
+    <lastmod>2021-06-15T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/forward/</loc>
+    <lastmod>2021-06-15T00:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://ipark-cs.github.io/tags/dsa/</loc>
     <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
@@ -23,9 +53,6 @@
     <loc>https://ipark-cs.github.io/tags/subarray/</loc>
     <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/tags/</loc>
-    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
-  </url><url>
     <loc>https://ipark-cs.github.io/tags/2-sum/</loc>
     <lastmod>2021-06-14T01:06:19-07:00</lastmod>
   </url><url>
@@ -33,19 +60,13 @@
     <lastmod>2021-06-14T01:06:19-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/accumulative-sum/</loc>
-    <lastmod>2021-06-14T00:00:00-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/tags/epi/</loc>
-    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/epi/</loc>
-    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
+    <lastmod>2021-06-14T16:18:51-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/greedy/</loc>
-    <lastmod>2021-06-14T00:00:00-07:00</lastmod>
+    <lastmod>2021-06-14T16:18:51-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/greedy.2-schedule-to-minimize-waiting-time/</loc>
-    <lastmod>2021-06-14T00:00:00-07:00</lastmod>
+    <lastmod>2021-06-14T16:18:51-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/greedy.5-find-majority-element/</loc>
     <lastmod>2021-06-14T15:14:01-07:00</lastmod>
@@ -543,9 +564,6 @@
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/archives/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/tags/arrays/</loc>
     <lastmod>2021-06-10T14:12:53-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/bert/</loc>
