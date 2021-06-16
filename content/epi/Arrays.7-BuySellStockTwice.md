@@ -1,6 +1,6 @@
 +++
 author = "ipark"
-title = "Arrays.1 Buy and Sell a Stock Twice"
+title = "Arrays.7 Buy and Sell a Stock Twice"
 date =  2021-06-15
 draft =  false
 type = "EPI"

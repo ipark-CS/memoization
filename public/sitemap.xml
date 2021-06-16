@@ -3,15 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ipark-cs.github.io/tags/arrays/</loc>
-    <lastmod>2021-06-15T15:48:03-07:00</lastmod>
+    <lastmod>2021-06-15T22:38:27-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/epi/arrays.1-buy-and-sell-a-stock-once/</loc>
-    <lastmod>2021-06-15T15:48:03-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/epi/arrays-1.-dutch-flag-partition/</loc>
+    <lastmod>2021-06-15T22:38:27-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/epi/</loc>
-    <lastmod>2021-06-15T15:48:03-07:00</lastmod>
+    <lastmod>2021-06-15T22:38:27-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/</loc>
+    <lastmod>2021-06-15T22:38:27-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/multiple-passes/</loc>
+    <lastmod>2021-06-15T22:38:27-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/partition/</loc>
+    <lastmod>2021-06-15T22:38:27-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/</loc>
+    <lastmod>2021-06-15T22:38:27-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/epi/arrays.6-buy-and-sell-a-stock-once/</loc>
     <lastmod>2021-06-15T15:48:03-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/min-max/</loc>
@@ -20,10 +32,7 @@
     <loc>https://ipark-cs.github.io/tags/stock/</loc>
     <lastmod>2021-06-15T15:48:03-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/tags/</loc>
-    <lastmod>2021-06-15T15:48:03-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/epi/arrays.1-buy-and-sell-a-stock-twice/</loc>
+    <loc>https://ipark-cs.github.io/epi/arrays.7-buy-and-sell-a-stock-twice/</loc>
     <lastmod>2021-06-15T15:48:03-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/backward/</loc>
@@ -159,16 +168,13 @@
     <lastmod>2021-06-11T15:28:50-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/epi-bootcamp-ds1-arrays-even-odd-partitioning/</loc>
-    <lastmod>2021-06-11T15:28:50-07:00</lastmod>
+    <lastmod>2021-06-15T21:53:36-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/epi-bootcamp-ds2-strings/</loc>
     <lastmod>2021-06-11T15:28:50-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/tags/partition/</loc>
-    <lastmod>2021-06-11T15:28:50-07:00</lastmod>
-  </url><url>
     <loc>https://ipark-cs.github.io/tags/quicksort/</loc>
-    <lastmod>2021-06-11T15:28:50-07:00</lastmod>
+    <lastmod>2021-06-15T21:53:36-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/epi-honorclass-28-compute-the-maximum-subarray-sum-in-a-circular-array/</loc>
     <lastmod>2021-06-11T10:33:21-07:00</lastmod>
