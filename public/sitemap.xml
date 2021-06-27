@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ipark-cs.github.io/tags/deep-learning/</loc>
+    <lastmod>2021-06-26T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/dl/</loc>
+    <lastmod>2021-06-26T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/dl/</loc>
+    <lastmod>2021-06-26T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/keras/</loc>
+    <lastmod>2021-06-26T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/regression/</loc>
+    <lastmod>2021-06-26T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/dl/regression/</loc>
+    <lastmod>2021-06-26T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/</loc>
+    <lastmod>2021-06-26T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/image-recognition/</loc>
+    <lastmod>2021-06-24T13:58:29-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/dl/mnist/</loc>
+    <lastmod>2021-06-24T13:58:29-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/mnist/</loc>
+    <lastmod>2021-06-24T13:58:29-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/dl/dlfortimeseries/</loc>
+    <lastmod>2021-06-21T15:36:26-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/time-series/</loc>
+    <lastmod>2021-06-21T15:36:26-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/machine-learning/</loc>
+    <lastmod>2021-06-21T15:31:17-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/ml/</loc>
+    <lastmod>2021-06-21T15:31:17-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/ml/</loc>
+    <lastmod>2021-06-21T15:31:17-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/test-set/</loc>
+    <lastmod>2021-06-21T15:31:17-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/validation-set/</loc>
+    <lastmod>2021-06-21T15:31:17-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/ml/validationsetvstestset/</loc>
+    <lastmod>2021-06-21T15:31:17-07:00</lastmod>
+  </url><url>
     <loc>https://ipark-cs.github.io/tags/arrays/</loc>
     <lastmod>2021-06-15T22:40:59-07:00</lastmod>
   </url><url>
@@ -18,9 +72,6 @@
     <lastmod>2021-06-15T22:40:59-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/partition/</loc>
-    <lastmod>2021-06-15T22:40:59-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/tags/</loc>
     <lastmod>2021-06-15T22:40:59-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/arrays.6-buy-and-sell-a-stock-once/</loc>
@@ -545,9 +596,6 @@
     <loc>https://ipark-cs.github.io/tags/computer-vision/</loc>
     <lastmod>2021-06-10T14:12:53-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/tags/deep-learning/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
-  </url><url>
     <loc>https://ipark-cs.github.io/tags/deeplabv3&#43;/</loc>
     <lastmod>2021-06-10T14:12:53-07:00</lastmod>
   </url><url>
@@ -606,9 +654,6 @@
     <lastmod>2021-06-10T14:12:53-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/cryptograph/</loc>
-    <lastmod>2021-06-11T16:43:51-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/tags/dl/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/embeddings/</loc>

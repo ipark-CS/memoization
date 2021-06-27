@@ -22,7 +22,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 codeFences = true
 guessSyntax = true
 noClasses = true
-style = "dracula"
+#style ="pygments"
+#style = "murphy"
+style = "friendly"
 
 [markup.goldmark.renderer]
 unsafe = true  # enable raw HTML in Markdown

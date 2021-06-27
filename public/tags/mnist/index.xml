@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mnist on iPark memoization</title>
+    <link>https://ipark-cs.github.io/tags/mnist/</link>
+    <description>Recent content in mnist on iPark memoization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Jun 2021 13:58:29 -0700</lastBuildDate>
+    
+        <atom:link href="https://ipark-cs.github.io/tags/mnist/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
