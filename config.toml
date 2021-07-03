@@ -60,7 +60,7 @@ css = ["css/fonts.css", "css/custom.css"]
 enable = false  # En/Disable comments globally, default: false. You can always enable comments on per page.
 
 [params.math]
-enable = false # load math globally, default: false. You can always enable math on per page.
+enable = true # load math globally, default: false. You can always enable math on per page.
 use = "katex"  # builtin: "katex", "mathjax".  default: "katex"
 
 [params.nav]
