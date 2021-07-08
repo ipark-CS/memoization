@@ -1,6 +1,6 @@
 +++
 author = "ipark"
-title = "Quantitative Prediction Model for Mass Spectrometry of Biologics to Validate"
+title = "Quantitative Structure Prediction Model for Mass Spectrometry of Biologics from MD Simulation Data"
 draft =  false
 type = "research"
 layout = "research"
