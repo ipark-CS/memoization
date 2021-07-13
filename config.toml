@@ -39,7 +39,7 @@ unsafe = true  # enable raw HTML in Markdown
      projects = "/projects/:filename"
      research = "/research/:filename"
      leetcode = "/leetcode/:slug"
-     hackkerrank = "/hackerrank/slug"
+     hackkerrank = "/hackerrank/:slug"
      dsa = "/dsa/:slug"
      epi = "/epi/:slug"
 
@@ -85,20 +85,4 @@ url = "/about/"
 [[params.nav.custom]]
 title = "bio.Research"
 url = "/research/"
-
-#[[params.nav.custom]]
-#title = "EPI"
-#url = "/epi/"
-
-#[[params.nav.custom]]
-#title = "LeetCode"
-#url = "/leetcode/"
-
-#[[params.nav.custom]]
-#title = "HackerRank"
-#url = "/hackerrank/"
-
-#[[params.nav.custom]]
-#title = "DSA"
-#url = "/dsa/"
 
