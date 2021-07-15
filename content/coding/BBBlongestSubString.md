@@ -1,7 +1,6 @@
 +++
 author = "ipark"
 title = "[51Qs] longestSubString"
-date =  2021-07-14T18:05:58-07:00
 draft =  false
 type = "coding"
 layout = "coding"

@@ -1,7 +1,6 @@
 +++
 author = "ipark"
 title = "[51Qs] Reverse Linked List"
-date =  2021-07-14
 draft =  false
 type = "coding"
 layout = "coding"

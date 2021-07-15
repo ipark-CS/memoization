@@ -1,7 +1,6 @@
 +++
 author = "ipark"
 title = "[51Qs] Find Duplicates at O(N) time + O(1) space"
-date =  2021-07-14
 draft =  false
 type = "coding"
 layout = "coding"

@@ -1,7 +1,6 @@
 +++
 author = "ipark"
 title = "[51Qs] Longest Consecutive Branch"
-date =  2021-07-15
 draft =  false
 type = "coding"
 layout = "coding"
