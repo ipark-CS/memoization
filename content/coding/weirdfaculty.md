@@ -1,7 +1,6 @@
 +++
 author = "ipark"
 title = "Weird Faculty"
-date =  2021-06-10T10:49:31-07:00
 draft =  false
 type = "coding"
 layout = "coding"
