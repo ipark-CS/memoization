@@ -38,10 +38,8 @@ unsafe = true  # enable raw HTML in Markdown
     #"/" = "/:year/:month/:filename/"
      projects = "/projects/:filename"
      research = "/research/:filename"
-     leetcode = "/leetcode/:slug"
-     hackkerrank = "/hackerrank/:slug"
-     dsa = "/dsa/:slug"
-     epi = "/epi/:slug"
+     coding = "/coding/:slug"
+     ai = "/ai/:slug"
 
 [author]
     name = "ipark"  # Change to your name

@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><meta name="generator" content="Hugo 0.83.1" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark">
+
+<meta name="keywords" content="blog, theme, 博客, 个人博客, 文字, hugo, 原创"/>
+<meta name="description" content="Hugo theme notepadium mod, a simple hugo theme for blogger"/>
+<meta name="author" content="理头张">
+<meta name="copyright"content="理头张">
+<meta http-equiv="content-language" content="zh,en">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff"><title>Deep Reinforcement Learning&nbsp;&ndash;&nbsp;iPark memoization</title><link rel="preconnect" href="https://cdn.jsdelivr.net/" crossorigin>
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net/">
+<link rel="dns-prefetch" href="https://fonts.gstatic.com/"><link rel="preload" href="/css/core.min.fdf2dd6d920f0ce72f788d5ff5a1f4feb164ffab9b790386b133d340e7b51bbe8fba56050bf2e4919342447cbccdffbd.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/css/core.min.fdf2dd6d920f0ce72f788d5ff5a1f4feb164ffab9b790386b133d340e7b51bbe8fba56050bf2e4919342447cbccdffbd.css" integrity="sha384-/fLdbZIPDOcveI1f9aH0/rFk/6ubeQOGsTPTQOe1G76PulYFC/LkkZNCRHy8zf&#43;9"></noscript>
+<style type="text/css">*,::before,::after{margin:0;padding:0;box-sizing:border-box}html{font-family:-system-ui,-apple-system,BlinkMacSystemFont,helvetica neue,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;font-size:17px;font-weight:400;line-height:1.7;scroll-behavior:smooth;transition:color .3s,background-color .3s;word-wrap:break-word;-webkit-text-size-adjust:100%}html[data-theme=dark] img{opacity:.65;transition:opacity .5s ease-in-out}html{background:#fff;--site-name-color:#3f4b67;--color-primary:#005ab4;--link-underline:#90cff9;--blockquote-border-left:6px solid #0051a2;--block-background-color:#f7faff;--pag-background-color:rgba(0, 122, 255, .5);--box-shadow:1px 1px 2px rgba(0,0,0,.125);--title-color:#303033;--body-color:#444}html[data-theme=dark]{background:#22272e;--site-name-color:#539bf5;--color-primary:#99bde1;--link-underline:#0051a2;--blockquote-border-left:6px solid #5176bf;--block-background-color:#002c58;--box-shadow:none;--title-color:#dadada;--body-color:#e9e9e9}h1,h2,h3,h4,h5,h6{font-weight:600;line-height:1.3;margin-block-start:0;margin-block-end:0}h1{font-size:26px}h2{font-size:24px}h3{font-size:22px}section>h1{color:var(--title-color)}a{color:var(--color-primary);text-decoration-thickness:.15rem;text-decoration-color:var(--link-underline)}a:hover{text-decoration-color:var(--color-primary)}.wrapper{display:grid;grid-template-columns:1fr min(65ch,calc(100% - 64px))1fr;grid-column-gap:32px}.wrapper>section{grid-column:2}.header{margin:20px 0;display:-webkit-flex;display:flex;flex-wrap:wrap;text-align:initial;padding:15px 0;border-bottom:1px solid #f0f0f0;justify-content:space-between;align-items:baseline}.site-name{display:inline-block;font-weight:600;font-size:21px;color:var(--site-name-color)}.site-logo{height:38px;border-radius:3px;vertical-align:middle;margin-right:8px}.nav-item{display:inline-block;font-size:18px;padding:4px 6px;margin:2px 3px 2px 0;line-height:1.5;white-space:nowrap}.data-theme-btn{border:none;vertical-align:middle;transition:.3s;background-color:Transparent;background-repeat:no-repeat;cursor:pointer;overflow:hidden;outline:none;padding-right:0;padding-left:0}html[data-theme=light] .light-hidden{display:none}html[data-theme=dark] .dark-hidden{display:none}.note-list{margin:0;padding:0;list-style:none}.note-list .item{position:relative;width:100%;margin-top:25px}.note-list .item:last-child{border:0!important}.note-title{font-size:19px;font-weight:700}.note-date,.note-content{font-size:15px;text-decoration:none;color:var(--body-color)}.note-content,.note-imgs,.note-labels{margin-top:4px;text-align:justify;text-justify:inter-word}.article-tag,.article-category{display:inline-block;font-size:15px;line-height:1;padding:4px 6px;margin:2px 3px 2px 0;white-space:nowrap;border-radius:3px}.article-category{color:#3a8c42}.article-category .hashtag,.article-tag .hashtag{font-weight:700;opacity:.5}.footer{font-size:13px;margin:40px 0 20px}.footer-wrap{text-align:center;color:var(--body-color)}.tag-cloud{margin:2em 0 3em;text-align:center}.tag-cloud-tags{display:inline-block;position:relative;margin:5px;word-wrap:break-word;overflow-wrap:break-word}.archive-year{font-size:20px;font-weight:800;color:var(--title-color);margin-top:20px;margin-bottom:10px}.archive-list{list-style:none}.archive-date{flex:0 0 100px;color:var(--title-color)}.archive-text{color:var(--body-color)}ul.archive-list li{display:flex}.article-containter{margin-bottom:20px}.article-header{margin:20px 0}.article-date{font-size:14px;margin-top:20px;color:#838387}.markdown-body{color:var(--body-color)}.markdown-body p{margin-top:0;margin-bottom:20px}.pagination{display:block;text-align:center;margin:20px 0 40px}.pagination ul{display:inline-block;list-style:none;font-weight:600;padding:0;margin:0}.pagination ul li{display:inline}.pagination ul li a{color:var(--color-primary);float:left;padding:8px 16px;text-decoration:none}.pagination ul li a:hover:not(.active){background-color:var(--pag-background-color)}.pagination ul li a.active{background-color:var(--color-primary);color:var(--block-background-color)}@font-face{font-family:averia sans libre;font-style:italic;font-weight:300;font-display:swap;src:local('Averia Sans Libre Light Italic'),local('AveriaSansLibre-LightItalic'),url(https://fonts.gstatic.com/s/averiasanslibre/v8/ga6caxZG_G5OvCf_rt7FH3B6BHLMEdVLKisSH5DdLw.ttf)format('truetype')}@font-face{font-family:averia sans libre;font-style:italic;font-weight:400;font-display:swap;src:local('Averia Sans Libre Italic'),local('AveriaSansLibre-Italic'),url(https://fonts.gstatic.com/s/averiasanslibre/v8/ga6RaxZG_G5OvCf_rt7FH3B6BHLMEdVLIoAwDw.ttf)format('truetype')}@font-face{font-family:averia sans libre;font-style:italic;font-weight:700;font-display:swap;src:local('Averia Sans Libre Bold Italic'),local('AveriaSansLibre-BoldItalic'),url(https://fonts.gstatic.com/s/averiasanslibre/v8/ga6caxZG_G5OvCf_rt7FH3B6BHLMEdVLKjsVH5DdLw.ttf)format('truetype')}@font-face{font-family:averia sans libre;font-style:normal;font-weight:300;font-display:swap;src:local('Averia Sans Libre Light'),local('AveriaSansLibre-Light'),url(https://fonts.gstatic.com/s/averiasanslibre/v8/ga6SaxZG_G5OvCf_rt7FH3B6BHLMEd3lMJcXL5c.ttf)format('truetype')}@font-face{font-family:averia sans libre;font-style:normal;font-weight:400;font-display:swap;src:local('Averia Sans Libre Regular'),local('AveriaSansLibre-Regular'),url(https://fonts.gstatic.com/s/averiasanslibre/v8/ga6XaxZG_G5OvCf_rt7FH3B6BHLMEdVOEoc.ttf)format('truetype')}@font-face{font-family:averia sans libre;font-style:normal;font-weight:700;font-display:swap;src:local('Averia Sans Libre Bold'),local('AveriaSansLibre-Bold'),url(https://fonts.gstatic.com/s/averiasanslibre/v8/ga6SaxZG_G5OvCf_rt7FH3B6BHLMEd31N5cXL5c.ttf)format('truetype')}@font-face{font-family:source code pro;font-style:italic;font-weight:400;font-display:swap;src:local('Source Code Pro Italic'),local('SourceCodePro-It'),url(https://fonts.gstatic.com/s/sourcecodepro/v11/HI_QiYsKILxRpg3hIP6sJ7fM7PqlONvUlMc.ttf)format('truetype')}@font-face{font-family:source code pro;font-style:italic;font-weight:500;font-display:swap;src:local('Source Code Pro Medium Italic'),local('SourceCodePro-MediumIt'),url(https://fonts.gstatic.com/s/sourcecodepro/v11/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONMnt9co5mg.ttf)format('truetype')}@font-face{font-family:source code pro;font-style:italic;font-weight:600;font-display:swap;src:local('Source Code Pro SemiBold Italic'),local('SourceCodePro-SemiBoldIt'),url(https://fonts.gstatic.com/s/sourcecodepro/v11/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONMLsNco5mg.ttf)format('truetype')}@font-face{font-family:source code pro;font-style:italic;font-weight:700;font-display:swap;src:local('Source Code Pro Bold Italic'),local('SourceCodePro-BoldIt'),url(https://fonts.gstatic.com/s/sourcecodepro/v11/HI_ViYsKILxRpg3hIP6sJ7fM7PqlONNvsdco5mg.ttf)format('truetype')}@font-face{font-family:source code pro;font-style:normal;font-weight:400;font-display:swap;src:local('Source Code Pro Regular'),local('SourceCodePro-Regular'),url(https://fonts.gstatic.com/s/sourcecodepro/v11/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevT.ttf)format('truetype')}@font-face{font-family:source code pro;font-style:normal;font-weight:500;font-display:swap;src:local('Source Code Pro Medium'),local('SourceCodePro-Medium'),url(https://fonts.gstatic.com/s/sourcecodepro/v11/HI_XiYsKILxRpg3hIP6sJ7fM7PqtzsjDs-cv.ttf)format('truetype')}@font-face{font-family:source code pro;font-style:normal;font-weight:600;font-display:swap;src:local('Source Code Pro SemiBold'),local('SourceCodePro-SemiBold'),url(https://fonts.gstatic.com/s/sourcecodepro/v11/HI_XiYsKILxRpg3hIP6sJ7fM7Pqt4s_Ds-cv.ttf)format('truetype')}@font-face{font-family:source code pro;font-style:normal;font-weight:700;font-display:swap;src:local('Source Code Pro Bold'),local('SourceCodePro-Bold'),url(https://fonts.gstatic.com/s/sourcecodepro/v11/HI_XiYsKILxRpg3hIP6sJ7fM7Pqths7Ds-cv.ttf)format('truetype')}html{font-family:averia sans libre,-system-ui,-apple-system,BlinkMacSystemFont,helvetica neue,Helvetica,SimHei,segoe ui,Roboto,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol}code,pre,tt,kbd,samp{font-family:source code pro,Menlo,Consolas,liberation mono,monospace;font-weight:500}</style>
+</head>
+
+<body>
+    <div class="wrapper"><section id="header" class="header">
+        <div class="header-left"><a href="/"><p class="site-name">iPark memoization</p></a>
+        </div>
+        <div class="header-right"><div class="nav"><a class="nav-item" href="/tags/">Tags</a><a class="nav-item" href="/projects/">cs.Projects</a><a class="nav-item" href="/about/">Resume</a><a class="nav-item" href="/research/">bio.Research</a><script>
+  const htmlEl = document.getElementsByTagName('html')[0];
+  const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+  if (currentTheme) {
+    htmlEl.dataset.theme = currentTheme;
+  }
+  const toggleTheme = (theme) => {
+    htmlEl.dataset.theme = theme;
+    localStorage.setItem('theme', theme);
+  }
+  if (
+    localStorage.getItem('theme') === 'dark' ||
+    window.matchMedia &&
+    window.matchMedia("(prefers-color-scheme: dark)").matches
+  ) {
+    htmlEl.dataset.theme = 'dark';
+  } else {
+    toggleTheme('light');
+  }
+</script>
+
+<button 
+    class="data-theme-btn dark-hidden"
+    onclick="toggleTheme('dark');">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#3f4b67" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+</button>
+<button 
+    class="data-theme-btn light-hidden"
+    onclick="toggleTheme('light');">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#e9e9e9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><path d="M12 1v2m0 18v2M4.2 4.2l1.4 1.4m12.8 12.8l1.4 1.4M1 12h2m18 0h2M4.2 19.8l1.4-1.4M18.4 5.6l1.4-1.4"/></svg>
+</button>
+</div></div></section><section id="content"><div class="article-containter">
+<section class="article-header">
+    <h1>Deep Reinforcement Learning</h1><p class="article-date">2021-07-02</p></section><section class="article-labels">
+    <a class="article-tag li" href=/tags/ai/><span class="hashtag">#</span>AI</a><a class="article-tag li" href=/tags/drl/><span class="hashtag">#</span>DRL</a></section><article class="markdown-body"><hr>
+<h3 id="drl">(D)RL</h3>
+<ol>
+<li>RL is one of AI methods</li>
+<li>The main characters of RL are the <strong>agent</strong> and the <strong>environment</strong>.</li>
+<li>RL is the study of agents and how they learn by <strong>trial and error</strong> (i.e interaction with environment).</li>
+<li>RL formalizes the idea that <strong>rewarding</strong> or punishing an agent for its behavior makes it more
+likely to repeat or forego that behavior in the future.</li>
+</ol>
+<hr>
+<h3 id="environment">Environment</h3>
+<p>the world that the agent lives in and interacts with.
+At every step of interaction, the agent sees a (possibly partial) observation of
+the state of the world, and then decides on an action to take. The environment
+changes when the agent acts on it, but may also change on its own.</p>
+<hr>
+<h3 id="agent">Agent</h3>
+<p>The agent also perceives a reward signal from the environment, a number that tells
+it how good or bad the current world state is. The goal of the agent is to maximize
+its cumulative reward, called return. Reinforcement learning methods are ways that
+the agent can learn behaviors to achieve its goal.</p>
+<hr>
+<h3 id="states-and-observations">States and Observations</h3>
+<p>A state s is a complete description of the state of the world. There is no
+information about the world which is hidden from the state. An observation o is
+a partial description of a state, which may omit information.</p>
+<hr>
+<h3 id="action-spaces">Action Spaces</h3>
+<p>Different environments allow different kinds of actions. The set of all valid
+actions in a given environment is often called the action space. Some environments,
+like Atari and Go, have discrete action spaces, where only a finite number of moves
+are available to the agent. Other environments, like where the agent controls a
+robot in a physical world, have continuous action spaces. In continuous spaces,
+actions are real-valued vectors.</p>
+<hr>
+<h3 id="policies">Policies</h3>
+<p>A policy is a rule used by an agent to decide what actions to take.</p>
+<hr>
+<h3 id="parameterized-policies">Parameterized Policies</h3>
+<p>In deep RL, we deal with parameterized policies: policies whose outputs are
+computable functions that depend on a set of parameters (eg the weights and biases
+of a neural network) which we can adjust to change the behavior via some optimization algorithm.</p>
+<blockquote>
+<h4 id="sampling">Sampling:</h4>
+<p>Given the mean action
+$$\mu_{\theta}(s)$$ and standard deviation $$\sigma_{\theta}(s)$$,
+and a vector z of noise from a spherical Gaussian ($$z \sim \mathcal{N}(0, I)$$),
+an action sample can be computed with $$a = \mu_{\theta}(s) + \sigma_{\theta}(s) \odot z$$,
+where $$\odot$$ denotes the elementwise product of two vectors.</p>
+<h4 id="log-likelihood">Log-Likelihood:</h4>
+<p>The log-likelihood of a k -dimensional action a, for a diagonal Gaussian with mean
+$$\mu = \mu_{\theta}(s)$$ and standard deviation $$\sigma = \sigma_{\theta}(s)$$, is given by
+$$\log \pi_{\theta}(a|s) = -\frac{1}{2}\left(\sum_{i=1}^k \left(\frac{(a_i - \mu_i)^2}{\sigma_i^2} + 2 \log \sigma_i \right) + k \log 2\pi \right)$$.</p>
+</blockquote>
+<hr>
+<h3 id="trajectories">Trajectories</h3>
+<p>A trajectory $$\tau$$ is a sequence of states and actions in the world, $$\tau = (s_0, a_0, s_1, a_1, &hellip;)$$.</p>
+<hr>
+<h3 id="reward-and-return">Reward and Return</h3>
+<p>The reward function $$R$$ depends on the current state of the world, the action
+just taken, and the next state of the world:</p>
+<p>$$r_t = R(s_t, a_t, s_{t+1}) \sim R(s_t)$$ or $$R(s_t,a_t)$$.</p>
+<blockquote>
+<h4 id="infinite-horizon-discounted-return">Infinite-horizon discounted return:</h4>
+<p>sum of all rewards ever obtained by the agent,
+but discounted by how far off in the future they&rsquo;re obtained.
+This formulation of reward includes a discount factor $$\gamma \in (0,1)$$:</p>
+<p>$$R(\tau) = \sum_{t=0}^{\infty} \gamma^t r_t$$.</p>
+</blockquote>
+<hr>
+<h3 id="bellman-equations">Bellman Equations</h3>
+<p>The value of your starting point is the reward to get from being there,
+plus the value of wherever you land next.</p>
+<blockquote>
+<h4 id="bellman-equations-for-on-policy-value-functions">Bellman Equations for On-policy Value Functions:</h4>
+<p>$$ V^{\pi}(s) = E_{a \sim \pi \ s'\sim P}\Bigl[{r(s,a) + \gamma V^{\pi}(s')}\Bigr]$$
+$$ Q^{\pi}(s,a) = E_{s'\sim P}\Bigl[{r(s,a) + \gamma E_{a'\sim \pi}{Q^{\pi}(s',a')}}\Bigr],$$<br>
+where $$s' \sim P(\cdot |s,a) \sim P$$ (the next state $$s'$$)
+is sampled from the environment’s transition rules;
+$$a \sim \pi(\cdot|s) \sim \pi$$
+and $$a' \sim \pi(\cdot|s') \sim \pi$$.</p>
+<h4 id="bellman-equations-for-optimal-value-functions">Bellman Equations for Optimal Value Functions:</h4>
+<p>$$ V^*(s) = \max_a E_{s'\sim P}\Bigl[{r(s,a) + \gamma V^*(s')}\Bigr]$$</p>
+<p>$$ Q^*(s,a) = E_{s'\sim P}\Bigl[{r(s,a) + \gamma \max_{a'} Q^*(s',a')}\Bigr].$$</p>
+</blockquote>
+<hr>
+<h3 id="advantage-functions">Advantage Functions</h3>
+<p>$$A^{\pi}(s,a)$$ corresponding to a policy $$\pi$$ describes how much better
+it is to take a specific action $$a$$ in state $$s$$, relatively, over randomly
+selecting an action according to $$\pi(\cdot|s)$$.
+$$A^{\pi}(s,a) = Q^{\pi}(s,a) - V^{\pi}(s)$$.</p>
+<hr>
+<h3 id="rl-problems">RL Problems</h3>
+<p>The goal in RL is to select a policy which maximizes expected return when the
+agent acts according to it.</p>
+<blockquote>
+<h4 id="probability-distributions-over-t-step-trajectories">Probability distributions over T-step trajectories:</h4>
+<p>$$P(\tau|\pi) = \rho_0 (s_0) \prod_{t=0}^{T-1} P(s_{t+1} | s_t, a_t) \pi(a_t | s_t)$$.</p>
+<h4 id="expected-return">Expected return:</h4>
+<p>$$J(\pi) = \int_{\tau} P(\tau|\pi) R(\tau) = E_{\tau\sim \pi}{\Bigl[R(\tau)}\Bigr]$$.</p>
+<h4 id="central-optimization-problem-in-rl">Central optimization problem in RL:</h4>
+<p>$$\pi^* = \arg \max_{\pi} J(\pi)$$,
+where $$\pi^*$$ is the optimal policy.</p>
+</blockquote>
+<hr>
+<h3 id="value-functions">Value Functions</h3>
+<p>The expected return if you start in that state or state-action pair, and then
+act according to a particular policy forever after. Value functions are used,
+one way or another, in almost every RL algorithm.</p>
+<blockquote>
+<h4 id="on-policy-v-function">On-Policy V-Function:</h4>
+<p>$$V^{\pi}(s) = E_{\tau \sim \pi}{\Bigl[R(\tau)\left| s_0 = s\right.\Bigr]}$$</p>
+<h4 id="on-policy-q-function">On-Policy Q-Function:</h4>
+<p>$$Q^{\pi}(s,a) = E_{\tau \sim \pi}{\Bigl[R(\tau)\left| s_0 = s, a_0 = a\right.\Bigr]}$$</p>
+<h4 id="optimal-v-function">Optimal V-Function:</h4>
+<p>$$V^*(s) = \max_{\pi} E_{\tau \sim \pi}{\Bigl[R(\tau)\left| s_0 = s\right.\Bigr]}$$</p>
+<h4 id="optimal-q-function">Optimal Q-Function:</h4>
+<p>$$Q^*(s,a) = \max_{\pi} E_{\tau \sim \pi}{\Bigl[R(\tau)\left| s_0 = s, a_0 = a\right.\Bigr]}$$</p>
+</blockquote>
+<hr>
+</article>
+</div><section class="article-navigation"><p><a class="link" href="/ai/proximal-policy-gradient/"><span class="li"></span>Proximal Policy Gradient</a class="link">
+    </p></section></section><section id="footer" class="footer max-body-width"><div class="footer-wrap"><p class="copyright">iPark memoization</p></div>
+<div class="footer-wrap"><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a><span> | </span><a href="/index.xml" target="_blank" rel="noopener"> RSS</a></div>
+<div class="footer-wrap"><p class="powerby"><span>Powered by </span><a href="https://gohugo.io" 
+    target="_blank" rel="noopener">Hugo</a><span> and the </span><a href="https://github.com/qdzhang/hugo-notepadium-mod" 
+    target="_blank" rel="noopener">Notepadium-mod</a></p></div>
+<div class="footer-wrap">
+    <a onclick='window.scrollTo({top: 0, behavior: "smooth"});'>^ TOP ^</a>
+</div></section><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/&#43;DiW/UqRcLbRjq" crossorigin="anonymous"><script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha384-y23I5Q6l&#43;B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd&#43;qj&#43;o24G5ZU2zJz" crossorigin="anonymous"></script><script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous"
+            onload="renderMathInElement(document.body);"></script></div>
+</body>
+
+</html>

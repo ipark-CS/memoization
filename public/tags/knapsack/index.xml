@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Knapsack on iPark memoization</title>
+    <title>knapsack on iPark memoization</title>
     <link>https://ipark-cs.github.io/tags/knapsack/</link>
-    <description>Recent content in Knapsack on iPark memoization</description>
+    <description>Recent content in knapsack on iPark memoization</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jun 2021 13:53:51 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jul 2021 18:05:58 -0700</lastBuildDate>
     
         <atom:link href="https://ipark-cs.github.io/tags/knapsack/index.xml" rel="self" type="application/rss+xml" />
     

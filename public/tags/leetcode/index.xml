@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LeetCode on iPark memoization</title>
+    <title>leetcode on iPark memoization</title>
     <link>https://ipark-cs.github.io/tags/leetcode/</link>
-    <description>Recent content in LeetCode on iPark memoization</description>
+    <description>Recent content in leetcode on iPark memoization</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Jun 2021 10:49:31 -0700</lastBuildDate>

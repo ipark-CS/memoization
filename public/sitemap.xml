@@ -2,94 +2,181 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ipark-cs.github.io/tags/amazon/</loc>
-    <lastmod>2021-07-02T19:38:49-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/tags/51qs/</loc>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/amazon/</loc>
-    <lastmod>2021-07-02T19:38:49-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/51qs-isbalanced/</loc>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/tags/applied-scientist/</loc>
-    <lastmod>2021-07-02T19:38:49-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/51qs-kthmostfrequent/</loc>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/amazon/drl/</loc>
-    <lastmod>2021-07-02T19:38:49-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/51qs-maxproductmat/</loc>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/tags/drl/</loc>
-    <lastmod>2021-07-02T19:38:49-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/51qs-mediansortedarrays/</loc>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/tags/ppo/</loc>
-    <lastmod>2021-07-02T19:38:49-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/51qs-traverselevel/</loc>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/amazon/ppo/</loc>
-    <lastmod>2021-07-02T19:38:49-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/tags/balanced/</loc>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/coding/</loc>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/coding/</loc>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/dp/</loc>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/kth-most-frequent/</loc>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/matrix/</loc>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/median/</loc>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/recursion/</loc>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/sorted-arrays/</loc>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/</loc>
-    <lastmod>2021-07-07T17:35:18-07:00</lastmod>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/traversal/</loc>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/trees/</loc>
+    <lastmod>2021-07-14T18:05:59-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/coding/51qs-0-1-knapsack/</loc>
+    <lastmod>2021-07-14T18:05:58-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/coding/51qs-inorderiter/</loc>
+    <lastmod>2021-07-14T18:05:58-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/coding/51qs-longestsubstring/</loc>
+    <lastmod>2021-07-14T18:05:58-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/coding/51qs-lowestcommonancester/</loc>
+    <lastmod>2021-07-14T18:05:58-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/coding/51qs-threesum/</loc>
+    <lastmod>2021-07-14T18:05:58-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/coding/51qs-threesum-closest/</loc>
+    <lastmod>2021-07-14T18:05:58-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/binary-search/</loc>
+    <lastmod>2021-07-14T18:05:58-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/bottom-up/</loc>
+    <lastmod>2021-07-14T18:05:58-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/cloest/</loc>
+    <lastmod>2021-07-14T18:05:58-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/inorder/</loc>
+    <lastmod>2021-07-14T18:05:58-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/iteration/</loc>
+    <lastmod>2021-07-14T18:05:58-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/knapsack/</loc>
+    <lastmod>2021-07-14T18:05:58-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/lca/</loc>
+    <lastmod>2021-07-14T18:05:58-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/substring/</loc>
+    <lastmod>2021-07-14T18:05:58-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/three-sum/</loc>
+    <lastmod>2021-07-14T18:05:58-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/coding/51qs-reverse-linked-list/</loc>
+    <lastmod>2021-07-14T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/linked-list/</loc>
+    <lastmod>2021-07-14T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/reverse/</loc>
+    <lastmod>2021-07-14T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/ai/</loc>
+    <lastmod>2021-07-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/ai/</loc>
+    <lastmod>2021-07-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/ai/deep-reinforcement-learning/</loc>
+    <lastmod>2021-07-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/drl/</loc>
+    <lastmod>2021-07-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/ppo/</loc>
+    <lastmod>2021-07-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/ai/proximal-policy-gradient/</loc>
+    <lastmod>2021-07-02T00:00:00-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/liklihood/</loc>
-    <lastmod>2021-07-02T19:38:49-07:00</lastmod>
+    <lastmod>2021-06-30T15:22:44-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/machine-learning/</loc>
-    <lastmod>2021-07-02T19:38:49-07:00</lastmod>
+    <lastmod>2021-06-30T15:22:44-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/ml/</loc>
-    <lastmod>2021-07-02T19:38:49-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/ml/</loc>
-    <lastmod>2021-07-02T19:38:49-07:00</lastmod>
+    <lastmod>2021-06-30T15:22:44-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/posterior/</loc>
-    <lastmod>2021-07-02T19:38:49-07:00</lastmod>
+    <lastmod>2021-06-30T15:22:44-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/ml/posterior/</loc>
-    <lastmod>2021-07-02T19:38:49-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/ai/posterior-probability/</loc>
+    <lastmod>2021-06-30T15:22:44-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/deep-learning/</loc>
-    <lastmod>2021-06-26T23:27:48-07:00</lastmod>
+    <lastmod>2021-06-26T00:00:00-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/dl/</loc>
-    <lastmod>2021-06-26T23:27:48-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/dl/</loc>
-    <lastmod>2021-06-26T23:27:48-07:00</lastmod>
+    <lastmod>2021-06-26T00:00:00-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/keras/</loc>
-    <lastmod>2021-06-26T23:27:48-07:00</lastmod>
+    <lastmod>2021-06-26T00:00:00-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/regression/</loc>
-    <lastmod>2021-06-26T23:27:48-07:00</lastmod>
+    <lastmod>2021-06-26T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/dl/regression/</loc>
-    <lastmod>2021-06-26T23:27:48-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/ai/regression-using-neural-network-in-keras-boston-hyderabad-dataset/</loc>
+    <lastmod>2021-06-26T00:00:00-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/image-recognition/</loc>
-    <lastmod>2021-06-26T23:27:48-07:00</lastmod>
+    <lastmod>2021-06-24T13:58:29-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/dl/mnist/</loc>
-    <lastmod>2021-06-26T23:27:48-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/ai/image-recognition-mnist-dataset-in-keras/</loc>
+    <lastmod>2021-06-24T13:58:29-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/mnist/</loc>
-    <lastmod>2021-06-26T23:27:48-07:00</lastmod>
+    <lastmod>2021-06-24T13:58:29-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/dl/dlfortimeseries/</loc>
-    <lastmod>2021-06-26T23:27:48-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/ai/deep-learning-for-time-series/</loc>
+    <lastmod>2021-06-21T15:36:26-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/time-series/</loc>
-    <lastmod>2021-06-26T23:27:48-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/tags/test-set/</loc>
-    <lastmod>2021-06-26T23:27:48-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/tags/validation-set/</loc>
-    <lastmod>2021-06-26T23:27:48-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/ml/validationsetvstestset/</loc>
-    <lastmod>2021-06-26T23:27:48-07:00</lastmod>
+    <lastmod>2021-06-21T15:36:26-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/arrays/</loc>
     <lastmod>2021-06-15T22:40:59-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/epi/arrays-1.-dutch-flag-partition/</loc>
+    <loc>https://ipark-cs.github.io/epi/arrays.1-dutchflagsparition/</loc>
     <lastmod>2021-06-15T22:40:59-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/epi/</loc>
@@ -104,7 +191,7 @@
     <loc>https://ipark-cs.github.io/tags/partition/</loc>
     <lastmod>2021-06-15T22:40:59-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/epi/arrays.6-buy-and-sell-a-stock-once/</loc>
+    <loc>https://ipark-cs.github.io/epi/arrays.6-buysellstockonce/</loc>
     <lastmod>2021-06-15T22:40:59-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/min-max/</loc>
@@ -113,7 +200,7 @@
     <loc>https://ipark-cs.github.io/tags/stock/</loc>
     <lastmod>2021-06-15T22:40:59-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/epi/arrays.7-buy-and-sell-a-stock-twice/</loc>
+    <loc>https://ipark-cs.github.io/epi/arrays.7-buysellstocktwice/</loc>
     <lastmod>2021-06-15T22:40:59-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/backward/</loc>
@@ -122,26 +209,20 @@
     <loc>https://ipark-cs.github.io/tags/forward/</loc>
     <lastmod>2021-06-15T22:40:59-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/tags/dsa/</loc>
-    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/dsa/</loc>
-    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
-  </url><url>
     <loc>https://ipark-cs.github.io/tags/invariant/</loc>
     <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/dsa/selection-sort/</loc>
-    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/selection-sort/</loc>
+    <lastmod>2021-06-14T09:48:57-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/selection-sort/</loc>
-    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
+    <lastmod>2021-06-14T09:48:57-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/shrink-array/</loc>
-    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
+    <lastmod>2021-06-14T09:48:57-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/subarray/</loc>
-    <lastmod>2021-06-14T15:14:01-07:00</lastmod>
+    <lastmod>2021-06-14T09:48:57-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/2-sum/</loc>
     <lastmod>2021-06-14T01:06:19-07:00</lastmod>
@@ -155,22 +236,22 @@
     <loc>https://ipark-cs.github.io/tags/greedy/</loc>
     <lastmod>2021-06-14T16:18:51-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/epi/greedy.2-schedule-to-minimize-waiting-time/</loc>
+    <loc>https://ipark-cs.github.io/epi/greedy.2-minwaittime/</loc>
     <lastmod>2021-06-14T16:18:51-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/epi/greedy.5-find-majority-element/</loc>
+    <loc>https://ipark-cs.github.io/epi/invariant.5-findmajorityelement/</loc>
     <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/hashmap/</loc>
     <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/epi/invariant.4-three-sum/</loc>
+    <loc>https://ipark-cs.github.io/epi/invariant.4-threesum/</loc>
     <lastmod>2021-06-14T01:06:19-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/majority/</loc>
     <lastmod>2021-06-14T15:14:01-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/epi/greedy.3-interval-covering-problem/</loc>
+    <loc>https://ipark-cs.github.io/epi/greedy.3-intervalcovering/</loc>
     <lastmod>2021-06-13T21:20:18-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/greey/</loc>
@@ -188,10 +269,7 @@
     <loc>https://ipark-cs.github.io/tags/gcd/</loc>
     <lastmod>2021-06-12T17:07:41-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/tags/recursion/</loc>
-    <lastmod>2021-06-13T15:02:24-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/epi/recursion.1-towers-of-hanoi/</loc>
+    <loc>https://ipark-cs.github.io/epi/recursion.1-towersofhanoi/</loc>
     <lastmod>2021-06-13T15:02:24-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/tower-of-hanoi/</loc>
@@ -248,7 +326,7 @@
     <loc>https://ipark-cs.github.io/epi/epi-bootcamp-ds8-binary-search-tress/</loc>
     <lastmod>2021-06-11T15:28:50-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/epi/epi-bootcamp-ds1-arrays-even-odd-partitioning/</loc>
+    <loc>https://ipark-cs.github.io/epi/epi-bootcamp-ds1-arrays/</loc>
     <lastmod>2021-06-15T21:53:36-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/epi/epi-bootcamp-ds2-strings/</loc>
@@ -344,9 +422,6 @@
     <loc>https://ipark-cs.github.io/epi/epi-honorclass-11-compute-the-longest-substring-with-matching-parens/</loc>
     <lastmod>2021-06-11T10:33:21-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/tags/dp/</loc>
-    <lastmod>2021-06-10T23:13:53-07:00</lastmod>
-  </url><url>
     <loc>https://ipark-cs.github.io/epi/dp.3-countnumberofwaystotraverse2darray/</loc>
     <lastmod>2021-06-10T23:13:53-07:00</lastmod>
   </url><url>
@@ -362,11 +437,8 @@
     <loc>https://ipark-cs.github.io/epi/graphs.7-transformonestrtoanother/</loc>
     <lastmod>2021-06-10T23:13:53-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/epi/greedy.6-gasupproblem/</loc>
+    <loc>https://ipark-cs.github.io/epi/invariant.6-gasupproblem/</loc>
     <lastmod>2021-06-14T01:06:19-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/tags/knapsack/</loc>
-    <lastmod>2021-06-10T23:13:53-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/maze/</loc>
     <lastmod>2021-06-10T23:13:53-07:00</lastmod>
@@ -483,54 +555,30 @@
     <lastmod>2021-06-10T23:13:53-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/array/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <lastmod>2021-06-10T10:49:31-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/leetcode/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <lastmod>2021-06-10T10:49:31-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/leetcode/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/leetcode/max-sum-sub-array/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/max-sum-sub-array/</loc>
+    <lastmod>2021-06-10T10:49:31-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/memoization/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <lastmod>2021-06-10T10:49:31-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/leetcode/number-of-traversals-staircase/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/number-of-traversals-staircase/</loc>
+    <lastmod>2021-06-10T10:49:31-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/top-down/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <lastmod>2021-06-10T10:49:31-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/twitter-oa/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <lastmod>2021-06-10T10:49:31-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/leetcode/weird-faculty/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/code/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/code/combinationsum/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/code/combinationsum2/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/code/maxsumsubarr/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/code/number_of_score_combinations/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/code/number_of_traversals_staircase/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/weird-faculty/</loc>
+    <lastmod>2021-06-10T10:49:31-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/actor-critic/</loc>
-    <lastmod>2021-06-10T23:13:53-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/tags/ai/</loc>
     <lastmod>2021-06-10T23:13:53-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/madrl/</loc>
@@ -654,7 +702,6 @@
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/binary-array/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/bioinformatics/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
@@ -665,17 +712,13 @@
     <loc>https://ipark-cs.github.io/tags/blowfish/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/dsa/bubble-sort/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/bubble-sort/</loc>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/bubblesort/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/leetcode/combination-sum/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/combination-sum/</loc>
   </url><url>
-    <loc>https://ipark-cs.github.io/leetcode/combination-sum-2/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/combination-sum-2/</loc>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/cryptograph/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
@@ -683,23 +726,16 @@
     <loc>https://ipark-cs.github.io/tags/embeddings/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/leetcode/finding-users-active-minutes/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/finding-users-active-minutes/</loc>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/genomics/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/leetcode/get-uniq-user-id-sum/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/get-uniq-user-id-sum/</loc>
   </url><url>
-    <loc>https://ipark-cs.github.io/hackerrank/groupingoneszeros/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/hackerrank/</loc>
-    <lastmod>2021-06-10T15:02:20-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/grouping-ones-and-zeros/</loc>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/hackerrank/</loc>
-    <lastmod>2021-06-10T15:02:20-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/informatics/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
@@ -713,35 +749,26 @@
     <loc>https://ipark-cs.github.io/research/gnfseq/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/hackerrank/jumpingonclouds/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/jumping-on-clouds/</loc>
   </url><url>
-    <loc>https://ipark-cs.github.io/leetcode/k-diiff-pairs/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/k-diiff-pairs/</loc>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/k-th-element/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/leetcode/knapsack/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/knapsack/</loc>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/mass-spectrometry/</loc>
     <lastmod>2021-07-07T17:35:18-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/leetcode/max-uniq-sub-array/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/max-uniq-sub-array/</loc>
   </url><url>
-    <loc>https://ipark-cs.github.io/dsa/merge-sort/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/merge-sort/</loc>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/mergesort/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/hackerrank/minswaps/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/min-swaps-2/</loc>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/minincrementforunique/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/modeling/</loc>
     <lastmod>2021-07-07T17:35:18-07:00</lastmod>
@@ -752,11 +779,9 @@
     <loc>https://ipark-cs.github.io/tags/nlp/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/leetcode/number-of-score-combinations/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/number-of-score-combinations/</loc>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/palindrome/</loc>
-    <lastmod>2021-06-10T15:02:20-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/pharmacokinetics/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
@@ -773,14 +798,11 @@
     <loc>https://ipark-cs.github.io/research/gnfms/</loc>
     <lastmod>2021-07-07T17:35:18-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/dsa/quick-select/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/quick-select/</loc>
   </url><url>
-    <loc>https://ipark-cs.github.io/dsa/quick-sort/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/quick-sort/</loc>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/quickselect/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/research/</loc>
     <lastmod>2021-07-07T17:35:18-07:00</lastmod>
@@ -801,25 +823,20 @@
     <lastmod>2021-07-07T17:35:18-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/sorting/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/hackerrank/substrspecial/</loc>
-    <lastmod>2021-06-10T15:02:20-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/special-sub-string-palindrome-variant/</loc>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/string/</loc>
-    <lastmod>2021-06-10T15:02:20-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/sts/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/hackerrank/substrpalindrom/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
+    <loc>https://ipark-cs.github.io/coding/sub-string-palindrome/</loc>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/svm/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/swap/</loc>
-    <lastmod>2021-06-10T14:12:53-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/tf-idf/</loc>
     <lastmod>2021-06-11T16:43:51-07:00</lastmod>
