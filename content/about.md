@@ -14,6 +14,17 @@ author = "ipark"
 <h3 id="work-experiences">Work Experiences</h3>
 <blockquote>
 <ul>
+<li>Computational Protein Engineer / Machine Learning<br>
+Aether Biomachines, Menlo Park, CA
+<ul>
+<li>Exploring swift, physics-based features for ML models
+</ul>
+</li>
+</ul>
+</blockquote>
+
+<blockquote>
+<ul>
 <li>Postdoctoral Fellow (Computational Simulation/Modeling)<br>
 Genomics Institute of the Novartis Research Foundation,  San Diego, CA
 <ul>
