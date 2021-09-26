@@ -76,9 +76,9 @@ title = "cs.Projects"
 url = "/projects/"
 #
 #
-[[params.nav.custom]]
-title = "Resume"
-url = "/about/"
+#[[params.nav.custom]]
+#title = "Resume"
+#url = "/about/"
 
 [[params.nav.custom]]
 title = "bio.Research"
