@@ -9,6 +9,8 @@ tags = ["AI", "Thesis", "DRL", "PPO", "MADRL", "Actor-Critic"
 ]
 +++
 
+[Published Paper in IEEE](https://ieeexplore.ieee.org/document/9680106)
+
 #### Abstract
 
 > We apply the state-of-art performance Deep Reinforcement Learning (DRL) algorithm,
@@ -23,6 +25,8 @@ tags = ["AI", "Thesis", "DRL", "PPO", "MADRL", "Actor-Critic"
 >   * Optimal neural network size depends on the number of walkers in the MADRL environments; and 
 >   * Parameter sharing among multi-agent is a better strategy as a number of agent increases than fully independent learning for the MADRL in terms of comparable performance and improved efficiency with  reduced parameters consuming less memory. 
 > This work showcases one instance of implicit cooperative learning of the MADRL.
+
+
 
 <img src="/img/DRL/DRL1.png" width="570" style="border:1px solid black;">
 <img src="/img/DRL/DRL3.png" width="570" style="border:1px solid black;">

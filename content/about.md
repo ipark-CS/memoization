@@ -6,7 +6,6 @@ author = "ipark"
 +++
 [Web](https://ipark-cs.github.io) | 
 [Linkedin](https://www.linkedin.com/in/inheepark) |
-[Instagram](https://www.instagram.com/ipark_c/) | 
 [GitHub](https://github.com/ipark-CS) |
 [GitLab](https://gitlab.com/ipark) | 
 [Gists](https://gist.github.com/ipark-CS)
