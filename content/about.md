@@ -16,7 +16,7 @@ author = "ipark"
 <li>Computational Protein Engineer / Machine Learning<br>
 Aether Biomachines, Menlo Park, CA
 <ul>
-<li>Exploring swift, physics-based features for ML models
+<li>Startup! Data Science + Machine Learning + Computational Chemistry (Enzyme:Substrate) + MD Simulation
 </ul>
 </li>
 </ul>
